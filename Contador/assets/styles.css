@@ -9,16 +9,20 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background-color: rgb(177, 225, 255);
+  background-color: slateblue;
+}
+
+p {
+  font-size: 26px;
 }
 
 button {
-  height: 40px;
-  width: 40px;
+  height: 50px;
+  width: 50px;
   border-radius: 50%;
-  border: 2px solid lightcoral;
-  background-color: rgb(241, 214, 214);
-  color: lightcoral;
+  border: 3px solid red;
+  background-color: gold;
+  color: red;
   font-size: 16pt;
   font-weight: 600;
   text-align: center;
